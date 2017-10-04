@@ -6,6 +6,7 @@ import android.os.Bundle;
 public class MainActivity extends AppCompatActivity {
 
     int a = 1;
+    int B = 1;
 
 
     @Override
@@ -14,7 +15,7 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
 
     a = 3;
-       
+        B = 3;
 
     }
 }
