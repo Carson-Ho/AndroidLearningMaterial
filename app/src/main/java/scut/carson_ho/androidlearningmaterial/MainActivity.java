@@ -7,7 +7,7 @@ public class MainActivity extends AppCompatActivity {
 
     int a = 1;
     int B = 1;
-    int C = 1;
+//    int C = 1;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -15,7 +15,7 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
 
     a = 3;
-        C = 3;
+//        C = 3;
 
     }
 }
